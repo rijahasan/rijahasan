@@ -2,6 +2,8 @@
 
 I am a self-motivated and largely self-learned developer, with an aim to extend my coding skills, problem-solving, and data-driven expertise to real-world challenges and problems, while contributing to research.
 
+---
+
 ## 🧰 Tech Stack & Tools
 
 ### AI / ML
@@ -32,9 +34,9 @@ I am a self-motivated and largely self-learned developer, with an aim to extend 
 ### Tools & Workflow
 - Git, Jira, Apache Superset, Power BI
 
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rijahasan&layout=compact&theme=radical)
-
+--- 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rijahasan&layout=compact&hide=jupyter%20notebook&theme=radical)
+---
 ## 📫 Let's Connect
 
 - 📧 Email: syedarija02@gmail.com  
