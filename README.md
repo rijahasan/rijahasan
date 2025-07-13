@@ -4,7 +4,7 @@ I am a self-motivated and largely self-learned developer, with an aim to extend 
 
 ---
 
-## 🧰 Tech Stack & Tools
+## Tech Stack & Tools
 
 ### AI / ML
 - **Frameworks & Libraries:** PyTorch, Hugging Face Transformers, Scikit-learn, Pandas, NumPy, NLTK, Matplotlib, Seaborn, LSTM
@@ -12,11 +12,10 @@ I am a self-motivated and largely self-learned developer, with an aim to extend 
 
 ### Data & Engineering
 - **Processing & Pipelines:** Apache Spark, Apache Airflow, ETL Development, Data Engineering
-- **Data Mining & Testing:** Selenium, BeautifulSoup, PyTest
+- **Data Mining & Testing:** Selenium, BeautifulSoup, Requests, PyTest
 
 ### Backend & Infrastructure
-- **Frameworks:** Node.js, Express.js, Next.js
-- **Infrastructure & DevOps:** Docker, AWS, Apache Iceberg
+- **Infrastructure & DevOps:** Docker, AWS, Apache Iceberg, Node.js, Next.js
 - **API & System Design:** REST APIs, Authentication, Microservices
 
 ### Databases & Storage
@@ -29,7 +28,7 @@ I am a self-motivated and largely self-learned developer, with an aim to extend 
 - **UX/UI Practices:** Responsive Design, Component Libraries
 
 ### Programming Languages
-- TypeScript / JavaScript, Python, C++, SQL, Bash, HTML/CSS
+- Python, C++, TypeScript / JavaScript, SQL, Bash, HTML/CSS
 
 ### Tools & Workflow
 - Git, Jira, Apache Superset, Power BI
