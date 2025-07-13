@@ -35,7 +35,8 @@ I am a self-motivated and largely self-learned developer, with an aim to extend 
 - Git, Jira, Apache Superset, Power BI
 
 --- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rijahasan&layout=compact&hide=jupyter%20notebook&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rijahasan&layout=compact&hide=jupyter%20notebook&theme=github_light&langs_count=10&card_width=550)](https://github.com/rijahasan/github-readme-stats)
+
 ---
 ## 📫 Let's Connect
 
