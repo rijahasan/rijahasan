@@ -1,4 +1,4 @@
-I’m a self-motivated and largely self-taught developer with a strong foundation in **data engineering and AI**. My work focuses on solving real-world problems through scalable architectures, intelligent systems, and robust data pipelines. I enjoy building end-to-end products that blend **machine learning**, **distributed systems**, and **clean software engineering**.
+I’m a self-motivated and largely self-taught developer with a strong foundation in **data engineering and AI**. My work focuses on solving real-world problems through scalable architectures, intelligent systems, and robust data pipelines.
 
 ---
 
