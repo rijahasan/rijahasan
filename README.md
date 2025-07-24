@@ -13,8 +13,8 @@ I’m a self-motivated and largely self-taught developer with a strong foundatio
 ## Tech Stack & Tools
 
 ### AI / ML
-- **Libraries & Frameworks:** PyTorch, Hugging Face Transformers, Scikit-learn, LSTM, NLTK, Pandas, NumPy
-- **Key Techniques:** Fine-tuning, Prompt Engineering, Few-shot Learning, Ensemble Methods, Data Augmentation, Time-series, Clustering, Classification, Regression
+- **Libraries & Frameworks:** PyTorch, Hugging Face Transformers, Keras, Scikit-learn, LSTM, NLTK, Pandas, NumPy
+- **Key Techniques:** Fine-tuning, Prompt Engineering, Few-shot Learning, Ensemble Methods, CNNs, LSTMs, Transfer Learning, Feature Engineering, Image/Data Augmentation, Time-series, Clustering, Classification, Regression, RF
 
 ### Data & ETL Engineering
 - **Big Data & Pipelines:** Apache Spark, Apache Airflow, ETL Design, Batch Processing (learning Kafka for stream processing)
